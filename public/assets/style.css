@@ -1,0 +1,93 @@
+header{
+	padding-bottom: 20px;
+}
+
+nav{
+	margin: 20px 30px 0px 0px;
+	float: right;
+}
+
+h2{
+	margin: 0px 0px 20px 10px;
+	border: solid 1px;
+	border-left: hidden; border-right: hidden; border-top: hidden;
+	padding-bottom: 20px;
+}
+
+img{
+	padding-top: 10px;
+}
+
+.jumbotron{
+	margin-top: 25px;
+}
+
+.lead{
+	line-height: 33px;
+	padding-top: 10px; 
+	margin-left: 10px;
+}
+
+h3{
+	text-align: center;
+	border: solid 1px;
+	border-top: hidden; border-left: hidden; border-right: hidden;
+	padding-bottom: 20px;
+}
+
+.myaside{
+	float: right;
+}
+
+ul li{
+	list-style: none;
+	display: inline-block;
+	float: left;
+}
+
+
+.pics{
+	width: 60px; height: 70px;
+	margin: 5px;
+}
+
+.sep-1{
+	margin-left: 0px;
+}
+
+footer{
+	background: #43494f;
+	padding-top: 30px; padding-bottom: 20px;
+	margin-top: 30px;
+	text-align: center;
+}
+
+.myaside2{
+	float: right;
+}
+
+.btn-default{
+	margin-left: 95px;
+}
+
+.hang{
+	position: absolute;
+	top: 74%; left: 1.0%; 
+	width: 98%; height: 40px;
+	text-align: center;
+	padding-top: 10px;
+}
+
+.pics2{
+	height: 225px; width: 450px;
+	margin-top: 25px;
+}
+
+.portimg{
+	position: relative;
+	float: left;
+}
+
+h4{
+	background: #43494f;
+}
